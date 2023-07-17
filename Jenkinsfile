@@ -3,7 +3,7 @@ def repo = "git@github.com:darblietz/wayshub-frontend.git"
 def cred = "wayshub-rommel"
 def dir = "~/wayshub-frontend"
 def server = "rommel@103.117.56.28"
-def imagename = "wayshub-fe"
+def imagename = "wayshubfe"
 def dockerusername = "rommel"
 
 pipeline {
